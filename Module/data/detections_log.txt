@@ -1,0 +1,1093 @@
+ID 1: Wajah
+  - BBox: (866, 783, 157, 206) (center X: 944)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.86 m
+  - Camera Coords: X=-0.12, Y=-0.10, Z=2.86
+  - Timestamp: 7.266 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (864, 785, 161, 204) (center X: 944)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.89 m
+  - Camera Coords: X=-0.12, Y=-0.10, Z=2.89
+  - Timestamp: 7.386 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (922, 785, 160, 203) (center X: 1002)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.9 m
+  - Camera Coords: X=-0.05, Y=-0.10, Z=2.90
+  - Timestamp: 7.502 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (965, 782, 169, 201) (center X: 1049)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.93 m
+  - Camera Coords: X=0.01, Y=-0.11, Z=2.93
+  - Timestamp: 7.618 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (951, 781, 167, 202) (center X: 1034)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.92 m
+  - Camera Coords: X=-0.01, Y=-0.11, Z=2.92
+  - Timestamp: 7.734 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (941, 781, 153, 203) (center X: 1017)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.9 m
+  - Camera Coords: X=-0.03, Y=-0.11, Z=2.90
+  - Timestamp: 7.85 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (948, 785, 162, 201) (center X: 1029)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.93 m
+  - Camera Coords: X=-0.02, Y=-0.10, Z=2.93
+  - Timestamp: 7.967 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (929, 789, 151, 200) (center X: 1004)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.95 m
+  - Camera Coords: X=-0.05, Y=-0.10, Z=2.95
+  - Timestamp: 8.311 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (900, 782, 160, 208) (center X: 980)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.83 m
+  - Camera Coords: X=-0.07, Y=-0.10, Z=2.83
+  - Timestamp: 8.427 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (879, 779, 165, 204) (center X: 961)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.89 m
+  - Camera Coords: X=-0.10, Y=-0.11, Z=2.89
+  - Timestamp: 8.543 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (856, 782, 168, 208) (center X: 940)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.83 m
+  - Camera Coords: X=-0.12, Y=-0.10, Z=2.83
+  - Timestamp: 8.66 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (868, 785, 163, 209) (center X: 949)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.82 m
+  - Camera Coords: X=-0.11, Y=-0.09, Z=2.82
+  - Timestamp: 8.776 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (887, 785, 168, 209) (center X: 971)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.82 m
+  - Camera Coords: X=-0.08, Y=-0.09, Z=2.82
+  - Timestamp: 8.892 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (883, 786, 157, 211) (center X: 961)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.79 m
+  - Camera Coords: X=-0.09, Y=-0.09, Z=2.79
+  - Timestamp: 9.009 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (856, 789, 168, 209) (center X: 940)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.82 m
+  - Camera Coords: X=-0.12, Y=-0.09, Z=2.82
+  - Timestamp: 9.125 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (795, 793, 168, 212) (center X: 879)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.78 m
+  - Camera Coords: X=-0.19, Y=-0.08, Z=2.78
+  - Timestamp: 9.241 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (825, 814, 162, 207) (center X: 906)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.85 m
+  - Camera Coords: X=-0.16, Y=-0.06, Z=2.85
+  - Timestamp: 9.357 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1294, 814, 127, 201) (center X: 1357)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.93 m
+  - Camera Coords: X=0.38, Y=-0.07, Z=2.93
+  - Timestamp: 9.587 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1361, 827, 148, 190) (center X: 1435)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.1 m
+  - Camera Coords: X=0.50, Y=-0.06, Z=3.10
+  - Timestamp: 9.703 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1451, 816, 149, 205) (center X: 1525)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.88 m
+  - Camera Coords: X=0.57, Y=-0.07, Z=2.88
+  - Timestamp: 9.82 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1736, 818, 151, 205) (center X: 1811)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.88 m
+  - Camera Coords: X=0.91, Y=-0.07, Z=2.88
+  - Timestamp: 10.392 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1793, 808, 156, 193) (center X: 1871)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.05 m
+  - Camera Coords: X=1.05, Y=-0.09, Z=3.05
+  - Timestamp: 10.508 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1806, 806, 151, 201) (center X: 1881)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.93 m
+  - Camera Coords: X=1.02, Y=-0.09, Z=2.93
+  - Timestamp: 10.624 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1797, 810, 157, 195) (center X: 1875)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.02 m
+  - Camera Coords: X=1.04, Y=-0.09, Z=3.02
+  - Timestamp: 10.741 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1780, 817, 145, 196) (center X: 1852)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.01 m
+  - Camera Coords: X=1.01, Y=-0.08, Z=3.01
+  - Timestamp: 10.857 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1761, 822, 131, 200) (center X: 1826)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.95 m
+  - Camera Coords: X=0.96, Y=-0.07, Z=2.95
+  - Timestamp: 11.201 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1749, 821, 140, 197) (center X: 1819)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.99 m
+  - Camera Coords: X=0.96, Y=-0.07, Z=2.99
+  - Timestamp: 11.318 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1737, 820, 149, 194) (center X: 1811)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.04 m
+  - Camera Coords: X=0.97, Y=-0.07, Z=3.04
+  - Timestamp: 11.434 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1722, 820, 156, 194) (center X: 1800)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.04 m
+  - Camera Coords: X=0.95, Y=-0.07, Z=3.04
+  - Timestamp: 11.55 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1714, 816, 147, 198) (center X: 1787)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.98 m
+  - Camera Coords: X=0.92, Y=-0.07, Z=2.98
+  - Timestamp: 11.666 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1715, 817, 154, 193) (center X: 1792)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.05 m
+  - Camera Coords: X=0.95, Y=-0.08, Z=3.05
+  - Timestamp: 11.782 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1721, 818, 157, 194) (center X: 1799)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.04 m
+  - Camera Coords: X=0.95, Y=-0.08, Z=3.04
+  - Timestamp: 11.899 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1739, 815, 153, 198) (center X: 1815)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.98 m
+  - Camera Coords: X=0.95, Y=-0.08, Z=2.98
+  - Timestamp: 12.015 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1743, 814, 157, 196) (center X: 1821)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.01 m
+  - Camera Coords: X=0.97, Y=-0.08, Z=3.01
+  - Timestamp: 12.131 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1740, 816, 154, 198) (center X: 1817)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.98 m
+  - Camera Coords: X=0.95, Y=-0.08, Z=2.98
+  - Timestamp: 12.247 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1210, 778, 138, 177) (center X: 1279)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.33 m
+  - Camera Coords: X=0.32, Y=-0.14, Z=3.33
+  - Timestamp: 12.364 sec
+
+ID 2: Wajah
+  - BBox: (1723, 814, 155, 197) (center X: 1800)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.99 m
+  - Camera Coords: X=0.94, Y=-0.08, Z=2.99
+  - Timestamp: 12.363 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1217, 774, 139, 179) (center X: 1286)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.29 m
+  - Camera Coords: X=0.33, Y=-0.15, Z=3.29
+  - Timestamp: 12.48 sec
+
+ID 2: Wajah
+  - BBox: (1684, 816, 163, 202) (center X: 1765)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.92 m
+  - Camera Coords: X=0.87, Y=-0.07, Z=2.92
+  - Timestamp: 12.48 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1222, 773, 137, 192) (center X: 1290)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.07 m
+  - Camera Coords: X=0.31, Y=-0.13, Z=3.07
+  - Timestamp: 12.596 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1224, 772, 151, 185) (center X: 1299)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.19 m
+  - Camera Coords: X=0.34, Y=-0.14, Z=3.19
+  - Timestamp: 12.713 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1207, 774, 144, 199) (center X: 1279)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.96 m
+  - Camera Coords: X=0.29, Y=-0.12, Z=2.96
+  - Timestamp: 12.829 sec
+
+ID 2: Wajah
+  - BBox: (1830, 754, 173, 234) (center X: 1916)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.52 m
+  - Camera Coords: X=0.91, Y=-0.11, Z=2.52
+  - Timestamp: 12.829 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1523, 708, 206, 283) (center X: 1626)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.08 m
+  - Camera Coords: X=0.50, Y=-0.11, Z=2.08
+  - Timestamp: 13.059 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1472, 742, 207, 241) (center X: 1575)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.45 m
+  - Camera Coords: X=0.54, Y=-0.11, Z=2.45
+  - Timestamp: 13.175 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (967, 774, 149, 174) (center X: 1041)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.39 m
+  - Camera Coords: X=-0.00, Y=-0.15, Z=3.39
+  - Timestamp: 13.292 sec
+
+ID 2: Wajah
+  - BBox: (1487, 748, 204, 224) (center X: 1589)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.63 m
+  - Camera Coords: X=0.59, Y=-0.12, Z=2.63
+  - Timestamp: 13.291 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (942, 771, 151, 186) (center X: 1017)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.17 m
+  - Camera Coords: X=-0.03, Y=-0.14, Z=3.17
+  - Timestamp: 13.408 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1493, 750, 214, 223) (center X: 1600)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.64 m
+  - Camera Coords: X=0.61, Y=-0.12, Z=2.64
+  - Timestamp: 13.524 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (859, 768, 150, 210) (center X: 934)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.81 m
+  - Camera Coords: X=-0.12, Y=-0.11, Z=2.81
+  - Timestamp: 13.64 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (899, 760, 143, 182) (center X: 970)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.24 m
+  - Camera Coords: X=-0.10, Y=-0.16, Z=3.24
+  - Timestamp: 13.756 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (911, 761, 154, 184) (center X: 988)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.2 m
+  - Camera Coords: X=-0.07, Y=-0.15, Z=3.20
+  - Timestamp: 13.872 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (905, 759, 144, 174) (center X: 977)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.39 m
+  - Camera Coords: X=-0.09, Y=-0.17, Z=3.39
+  - Timestamp: 13.989 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1858, 755, 154, 233) (center X: 1935)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.53 m
+  - Camera Coords: X=0.94, Y=-0.11, Z=2.53
+  - Timestamp: 14.105 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (881, 758, 152, 193) (center X: 957)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.05 m
+  - Camera Coords: X=-0.11, Y=-0.15, Z=3.05
+  - Timestamp: 14.222 sec
+
+ID 2: Wajah
+  - BBox: (1813, 789, 161, 207) (center X: 1893)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.85 m
+  - Camera Coords: X=1.00, Y=-0.10, Z=2.85
+  - Timestamp: 14.222 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (874, 761, 154, 195) (center X: 951)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.02 m
+  - Camera Coords: X=-0.11, Y=-0.14, Z=3.02
+  - Timestamp: 14.339 sec
+
+ID 2: Wajah
+  - BBox: (1632, 798, 159, 201) (center X: 1711)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.93 m
+  - Camera Coords: X=0.81, Y=-0.09, Z=2.93
+  - Timestamp: 14.339 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (872, 764, 151, 199) (center X: 947)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.96 m
+  - Camera Coords: X=-0.12, Y=-0.13, Z=2.96
+  - Timestamp: 14.456 sec
+
+ID 2: Wajah
+  - BBox: (1662, 826, 141, 187) (center X: 1732)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.15 m
+  - Camera Coords: X=0.90, Y=-0.07, Z=3.15
+  - Timestamp: 14.455 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (873, 764, 151, 196) (center X: 948)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.01 m
+  - Camera Coords: X=-0.12, Y=-0.13, Z=3.01
+  - Timestamp: 14.572 sec
+
+ID 2: Wajah
+  - BBox: (1736, 820, 142, 167) (center X: 1807)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.53 m
+  - Camera Coords: X=1.12, Y=-0.11, Z=3.53
+  - Timestamp: 14.572 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (877, 762, 148, 194) (center X: 951)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.04 m
+  - Camera Coords: X=-0.11, Y=-0.14, Z=3.04
+  - Timestamp: 14.688 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (884, 763, 152, 192) (center X: 960)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.07 m
+  - Camera Coords: X=-0.10, Y=-0.14, Z=3.07
+  - Timestamp: 14.805 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (889, 766, 145, 190) (center X: 961)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.1 m
+  - Camera Coords: X=-0.10, Y=-0.14, Z=3.10
+  - Timestamp: 14.921 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (887, 768, 148, 185) (center X: 961)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.19 m
+  - Camera Coords: X=-0.11, Y=-0.15, Z=3.19
+  - Timestamp: 15.037 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (879, 766, 150, 194) (center X: 954)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.04 m
+  - Camera Coords: X=-0.11, Y=-0.13, Z=3.04
+  - Timestamp: 15.154 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (873, 771, 142, 189) (center X: 944)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.12 m
+  - Camera Coords: X=-0.13, Y=-0.14, Z=3.12
+  - Timestamp: 15.27 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (872, 771, 132, 196) (center X: 938)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.01 m
+  - Camera Coords: X=-0.13, Y=-0.13, Z=3.01
+  - Timestamp: 15.387 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (859, 772, 145, 198) (center X: 931)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.98 m
+  - Camera Coords: X=-0.14, Y=-0.12, Z=2.98
+  - Timestamp: 15.503 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (843, 774, 144, 187) (center X: 915)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.15 m
+  - Camera Coords: X=-0.16, Y=-0.13, Z=3.15
+  - Timestamp: 15.62 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (828, 792, 133, 184) (center X: 894)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.2 m
+  - Camera Coords: X=-0.19, Y=-0.11, Z=3.20
+  - Timestamp: 15.737 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (864, 807, 130, 173) (center X: 929)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.41 m
+  - Camera Coords: X=-0.16, Y=-0.11, Z=3.41
+  - Timestamp: 15.853 sec
+
+ID 2: Wajah
+  - BBox: (1643, 843, 124, 169) (center X: 1705)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.49 m
+  - Camera Coords: X=0.95, Y=-0.07, Z=3.49
+  - Timestamp: 15.853 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (937, 819, 130, 158) (center X: 1002)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.73 m
+  - Camera Coords: X=-0.06, Y=-0.11, Z=3.73
+  - Timestamp: 15.97 sec
+
+ID 2: Wajah
+  - BBox: (1719, 827, 137, 175) (center X: 1787)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.37 m
+  - Camera Coords: X=1.04, Y=-0.09, Z=3.37
+  - Timestamp: 15.97 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (932, 819, 128, 153) (center X: 996)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.85 m
+  - Camera Coords: X=-0.07, Y=-0.12, Z=3.85
+  - Timestamp: 16.087 sec
+
+ID 2: Wajah
+  - BBox: (1690, 831, 144, 187) (center X: 1762)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.15 m
+  - Camera Coords: X=0.94, Y=-0.07, Z=3.15
+  - Timestamp: 16.087 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (903, 821, 123, 171) (center X: 964)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.45 m
+  - Camera Coords: X=-0.11, Y=-0.09, Z=3.45
+  - Timestamp: 16.204 sec
+
+ID 2: Wajah
+  - BBox: (1660, 817, 142, 185) (center X: 1731)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.19 m
+  - Camera Coords: X=0.91, Y=-0.09, Z=3.19
+  - Timestamp: 16.203 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (905, 821, 120, 155) (center X: 965)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.8 m
+  - Camera Coords: X=-0.12, Y=-0.11, Z=3.80
+  - Timestamp: 16.32 sec
+
+ID 2: Wajah
+  - BBox: (1631, 802, 128, 187) (center X: 1695)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.15 m
+  - Camera Coords: X=0.85, Y=-0.10, Z=3.15
+  - Timestamp: 16.32 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1754, 770, 166, 210) (center X: 1837)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.81 m
+  - Camera Coords: X=0.92, Y=-0.12, Z=2.81
+  - Timestamp: 16.551 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1055, 819, 121, 149) (center X: 1115)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.96 m
+  - Camera Coords: X=0.12, Y=-0.13, Z=3.96
+  - Timestamp: 16.667 sec
+
+ID 2: Wajah
+  - BBox: (1719, 771, 173, 226) (center X: 1805)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.61 m
+  - Camera Coords: X=0.82, Y=-0.10, Z=2.61
+  - Timestamp: 16.667 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1015, 814, 101, 136) (center X: 1065)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 4.33 m
+  - Camera Coords: X=0.04, Y=-0.16, Z=4.33
+  - Timestamp: 16.898 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1004, 816, 102, 143) (center X: 1055)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 4.12 m
+  - Camera Coords: X=0.02, Y=-0.14, Z=4.12
+  - Timestamp: 17.014 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (991, 816, 111, 161) (center X: 1046)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.66 m
+  - Camera Coords: X=0.00, Y=-0.11, Z=3.66
+  - Timestamp: 17.13 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (979, 818, 105, 153) (center X: 1031)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.85 m
+  - Camera Coords: X=-0.02, Y=-0.12, Z=3.85
+  - Timestamp: 17.246 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1895, 752, 189, 242) (center X: 1989)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.44 m
+  - Camera Coords: X=0.96, Y=-0.11, Z=2.44
+  - Timestamp: 17.705 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1870, 748, 190, 238) (center X: 1965)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.48 m
+  - Camera Coords: X=0.95, Y=-0.11, Z=2.48
+  - Timestamp: 17.821 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (973, 823, 113, 176) (center X: 1029)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.35 m
+  - Camera Coords: X=-0.02, Y=-0.08, Z=3.35
+  - Timestamp: 17.938 sec
+
+ID 2: Wajah
+  - BBox: (1866, 749, 191, 225) (center X: 1961)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.62 m
+  - Camera Coords: X=1.00, Y=-0.13, Z=2.62
+  - Timestamp: 17.938 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1859, 750, 182, 236) (center X: 1950)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.5 m
+  - Camera Coords: X=0.94, Y=-0.11, Z=2.50
+  - Timestamp: 18.055 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1867, 745, 188, 254) (center X: 1961)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.32 m
+  - Camera Coords: X=0.88, Y=-0.10, Z=2.32
+  - Timestamp: 18.286 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1214, 823, 112, 151) (center X: 1270)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.9 m
+  - Camera Coords: X=0.36, Y=-0.12, Z=3.90
+  - Timestamp: 18.402 sec
+
+ID 2: Wajah
+  - BBox: (1869, 776, 156, 253) (center X: 1947)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.33 m
+  - Camera Coords: X=0.87, Y=-0.07, Z=2.33
+  - Timestamp: 18.402 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1208, 817, 117, 158) (center X: 1266)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.73 m
+  - Camera Coords: X=0.34, Y=-0.12, Z=3.73
+  - Timestamp: 18.633 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1206, 815, 120, 167) (center X: 1266)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.53 m
+  - Camera Coords: X=0.32, Y=-0.11, Z=3.53
+  - Timestamp: 18.749 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1210, 815, 115, 153) (center X: 1267)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.85 m
+  - Camera Coords: X=0.35, Y=-0.13, Z=3.85
+  - Timestamp: 18.867 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1565, 819, 120, 155) (center X: 1625)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.8 m
+  - Camera Coords: X=0.91, Y=-0.12, Z=3.80
+  - Timestamp: 19.44 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (703, 755, 178, 235) (center X: 792)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.51 m
+  - Camera Coords: X=-0.26, Y=-0.10, Z=2.51
+  - Timestamp: 19.557 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (718, 754, 196, 242) (center X: 816)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.44 m
+  - Camera Coords: X=-0.23, Y=-0.10, Z=2.44
+  - Timestamp: 19.674 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1955, 765, 144, 197) (center X: 2027)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.99 m
+  - Camera Coords: X=1.22, Y=-0.14, Z=2.99
+  - Timestamp: 20.589 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (883, 776, 164, 222) (center X: 965)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.66 m
+  - Camera Coords: X=-0.08, Y=-0.09, Z=2.66
+  - Timestamp: 20.704 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1936, 768, 146, 177) (center X: 2009)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.33 m
+  - Camera Coords: X=1.33, Y=-0.17, Z=3.33
+  - Timestamp: 20.821 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1186, 816, 145, 182) (center X: 1258)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.24 m
+  - Camera Coords: X=0.29, Y=-0.09, Z=3.24
+  - Timestamp: 21.392 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1923, 777, 151, 181) (center X: 1998)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.26 m
+  - Camera Coords: X=1.29, Y=-0.15, Z=3.26
+  - Timestamp: 21.851 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1939, 778, 144, 190) (center X: 2011)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.1 m
+  - Camera Coords: X=1.24, Y=-0.14, Z=3.10
+  - Timestamp: 21.967 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1291, 863, 106, 136) (center X: 1344)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 4.33 m
+  - Camera Coords: X=0.54, Y=-0.07, Z=4.33
+  - Timestamp: 22.653 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1965, 767, 185, 225) (center X: 2057)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.62 m
+  - Camera Coords: X=1.10, Y=-0.11, Z=2.62
+  - Timestamp: 22.769 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1298, 864, 105, 139) (center X: 1350)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 4.24 m
+  - Camera Coords: X=0.54, Y=-0.07, Z=4.24
+  - Timestamp: 22.885 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1298, 868, 105, 135) (center X: 1350)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 4.37 m
+  - Camera Coords: X=0.55, Y=-0.07, Z=4.37
+  - Timestamp: 23.001 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1299, 864, 106, 145) (center X: 1352)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 4.07 m
+  - Camera Coords: X=0.52, Y=-0.06, Z=4.07
+  - Timestamp: 23.117 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1302, 860, 106, 144) (center X: 1355)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 4.09 m
+  - Camera Coords: X=0.52, Y=-0.07, Z=4.09
+  - Timestamp: 23.233 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1303, 862, 100, 146) (center X: 1353)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 4.04 m
+  - Camera Coords: X=0.51, Y=-0.06, Z=4.04
+  - Timestamp: 23.35 sec
+
+ID 2: Wajah
+  - BBox: (1914, 693, 183, 230) (center X: 2005)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.56 m
+  - Camera Coords: X=1.02, Y=-0.18, Z=2.56
+  - Timestamp: 23.349 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1304, 864, 105, 140) (center X: 1356)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 4.21 m
+  - Camera Coords: X=0.54, Y=-0.07, Z=4.21
+  - Timestamp: 23.468 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1299, 865, 105, 137) (center X: 1351)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 4.3 m
+  - Camera Coords: X=0.54, Y=-0.07, Z=4.30
+  - Timestamp: 23.584 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1950, 687, 196, 235) (center X: 2048)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.51 m
+  - Camera Coords: X=1.04, Y=-0.18, Z=2.51
+  - Timestamp: 23.928 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1506, 867, 111, 146) (center X: 1561)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 4.04 m
+  - Camera Coords: X=0.86, Y=-0.06, Z=4.04
+  - Timestamp: 24.045 sec
+
+ID 2: Wajah
+  - BBox: (1959, 690, 181, 236) (center X: 2049)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.5 m
+  - Camera Coords: X=1.04, Y=-0.18, Z=2.50
+  - Timestamp: 24.045 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1577, 860, 116, 146) (center X: 1635)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 4.04 m
+  - Camera Coords: X=0.99, Y=-0.07, Z=4.04
+  - Timestamp: 24.389 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1471, 855, 122, 157) (center X: 1532)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.75 m
+  - Camera Coords: X=0.76, Y=-0.06, Z=3.75
+  - Timestamp: 24.619 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1436, 848, 129, 170) (center X: 1500)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.47 m
+  - Camera Coords: X=0.65, Y=-0.06, Z=3.47
+  - Timestamp: 24.736 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1452, 810, 133, 183) (center X: 1518)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 3.22 m
+  - Camera Coords: X=0.63, Y=-0.10, Z=3.22
+  - Timestamp: 24.966 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1380, 819, 162, 200) (center X: 1461)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.95 m
+  - Camera Coords: X=0.51, Y=-0.07, Z=2.95
+  - Timestamp: 25.083 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1328, 781, 169, 204) (center X: 1412)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.89 m
+  - Camera Coords: X=0.44, Y=-0.11, Z=2.89
+  - Timestamp: 25.199 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (2168, 727, 162, 224) (center X: 2249)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.63 m
+  - Camera Coords: X=1.29, Y=-0.15, Z=2.63
+  - Timestamp: 25.316 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (2140, 733, 168, 214) (center X: 2224)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.75 m
+  - Camera Coords: X=1.32, Y=-0.16, Z=2.75
+  - Timestamp: 25.433 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1491, 712, 228, 254) (center X: 1605)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.32 m
+  - Camera Coords: X=0.54, Y=-0.13, Z=2.32
+  - Timestamp: 25.891 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1534, 677, 232, 363) (center X: 1650)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 1.62 m
+  - Camera Coords: X=0.41, Y=-0.08, Z=1.62
+  - Timestamp: 26.008 sec
+
+ID 2: Wajah
+  - BBox: (2213, 761, 165, 212) (center X: 2295)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.78 m
+  - Camera Coords: X=1.40, Y=-0.13, Z=2.78
+  - Timestamp: 26.008 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1739, 783, 144, 210) (center X: 1811)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.81 m
+  - Camera Coords: X=0.89, Y=-0.10, Z=2.81
+  - Timestamp: 26.467 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1081, 736, 155, 208) (center X: 1158)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.83 m
+  - Camera Coords: X=0.13, Y=-0.15, Z=2.83
+  - Timestamp: 27.27 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1084, 740, 162, 201) (center X: 1165)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.93 m
+  - Camera Coords: X=0.15, Y=-0.16, Z=2.93
+  - Timestamp: 27.386 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1100, 730, 156, 211) (center X: 1178)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.79 m
+  - Camera Coords: X=0.16, Y=-0.16, Z=2.79
+  - Timestamp: 27.503 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1138, 725, 163, 212) (center X: 1219)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.78 m
+  - Camera Coords: X=0.20, Y=-0.16, Z=2.78
+  - Timestamp: 27.619 sec
+
+================================================
+ID 1: Wajah
+  - BBox: (1157, 767, 167, 221) (center X: 1240)
+Intrinsic Principal Point (cx, cy): 1042.78, 971.52
+  - Depth: 2.67 m
+  - Camera Coords: X=0.22, Y=-0.10, Z=2.67
+  - Timestamp: 28.079 sec
+
+================================================

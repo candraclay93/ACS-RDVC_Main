@@ -1,0 +1,8 @@
+exposure: 14853
+person_class_path: /home/ubuntu/Desktop/Model/Person.txt
+person_model_path: /home/ubuntu/Desktop/Model/Person.pt
+sign_class_path: /home/ubuntu/Desktop/Model/Sign.txt
+sign_model_path: /home/ubuntu/Desktop/Model/Sign.pt
+size: HD
+vehicle_class_path: /home/excarobo/Desktop/OBJECT/model.txt
+vehicle_model_path: /home/excarobo/Desktop/OBJECT/model.pt

@@ -1,0 +1,10 @@
+bulldozer
+dump_truck
+excavator
+grader
+loader
+mobile_crane
+roller
+person
+car
+motor

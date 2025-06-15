@@ -1,0 +1,9 @@
+# Ignore all .mp4, .avi, and .csv files recursively (including subfolders)
+**/*.mp4
+**/*.avi
+**/*.csv
+
+# Ignore entire folders
+ACS-RDVC/
+Backup/
+
